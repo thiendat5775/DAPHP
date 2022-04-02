@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'Tên',
+    'slug' => 'URL',
+    'description' => 'Mô tả',
+    'short_description' => 'Mô tả ngắn',
+    'brand_id' => 'Nhãn hiệu',
+    'categories' => 'Sản phẩm',
+    'tax_class_id' => 'Lớp thuế',
+    'tags' => 'Tags',
+    'is_active' => 'Trạng thái',
+    'price' => 'Giá',
+    'special_price' => 'Giá đặc biệt',
+    'special_price_type' => 'Loại giá đặc biệt',
+    'special_price_start' => 'Giá đặc biệt bắt đầu',
+    'special_price_end' => 'Giá đặc biệt kết thúc',
+    'sku' => 'SKU',
+    'manage_stock' => 'Quản lý hàng tồn kho',
+    'qty' => 'Qty',
+    'in_stock' => 'Còn hàng',
+    'new_from' => 'Sản phẩm mới từ',
+    'new_to' => 'Sản phẩm đến',
+    'is_reviewable' => 'Có thể đánh giá',
+];

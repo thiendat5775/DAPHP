@@ -1,0 +1,35 @@
+<?php
+
+return [
+    'left_in_stock' => ':count trong kho',
+    'in_stock' => 'Còn Hàng',
+    'out_of_stock' => 'Hêt Hàng',
+    'wishlist' => 'Yêu Thích',
+    'compare' => 'So Sánh',
+    'options' => [
+        'choose_an_option' => 'Chọn một option',
+    ],
+    'quantity' => 'Số Lượng',
+    'add_to_cart' => 'THÊM VÀO GIỎ',
+    'sku' => 'SKU:',
+    'categories' => 'Danh mục:',
+    'tags' => 'Tags:',
+    'share' => 'Chia sẻ:',
+    'facebook' => 'Facebook',
+    'twitter' => 'Twitter',
+    'linkedin' => 'Linkedin',
+    'tumblr' => 'Tumblr',
+    'you_might_also_like' => 'Bạn cũng có thể Like',
+    'description' => 'Miêu Tả',
+    'specification' => 'Chi Tiết',
+    'reviews' => 'Đánh Giá (:count)',
+    'add_a_review' => 'Thêm Đánh Giá',
+    'review_form' => [
+        'your_rating' => 'Đánh giá của bạn',
+        'name' => 'Tên',
+        'comment' => 'Bình luận',
+        'submit' => 'GỬI',
+    ],
+    'be_the_first_one_to_review_this_product' => 'Hãy là người đầu tiên đánh giá sản phẩm này.',
+    'related_products' => 'Sản phẩm liên quan',
+];

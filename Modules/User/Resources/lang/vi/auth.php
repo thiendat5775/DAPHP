@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'login' => 'Đăng nhập',
+    'logout' => 'Đăng xuất',
+    'email' => 'Email',
+    'password' => 'Mật khẩu',
+    'remember_me' => 'Remember me',
+    'forgot_password' => 'Quên mật khẩu?',
+    'sign_in' => 'ĐĂNG NHẬP',
+    'or_continue_with' => 'Hoặc, tiếp tục với',
+    'or_sign_up_with' => 'Hoặc, Đăng ký với',
+    'facebook' => 'Facebook',
+    'google' => 'Google',
+    'dont_have_an_account' => 'Không có tài khoản?',
+    'create_account' => 'TẠO TÀI KHOẢN',
+    'register' => 'Đăng ký',
+    'already_have_an_account' => 'Bạn đã sẵn sàng để tạo một tài khoản?',
+    'first_name' => 'Tên',
+    'last_name' => 'Họ',
+    'confirm_password' => 'Xác nhận mật khẩu',
+    'i_agree_to_the' => 'Tôi đồng ý với',
+    'privacy_policy' => 'Chính sách bảo mật',
+    'reset_password' => 'Đặt lại mật khẩu',
+    'enter_email' => 'Nhập email tài khoản của bạn để nhận liên kết cho phép bạn đặt lại mật khẩu của mình.',
+    'i_remembered_my_password' => 'Tôi đã nhớ mật khẩu của mình',
+    'submit' => 'GỬI',
+];
